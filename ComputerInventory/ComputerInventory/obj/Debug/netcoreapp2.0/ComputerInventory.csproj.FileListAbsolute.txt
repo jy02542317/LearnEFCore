@@ -1,0 +1,11 @@
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\bin\Debug\netcoreapp2.0\ComputerInventory.deps.json
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\bin\Debug\netcoreapp2.0\ComputerInventory.runtimeconfig.json
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\bin\Debug\netcoreapp2.0\ComputerInventory.runtimeconfig.dev.json
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\bin\Debug\netcoreapp2.0\ComputerInventory.dll
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.csprojResolveAssemblyReference.cache
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.csproj.CoreCompileInputs.cache
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.AssemblyInfoInputs.cache
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.AssemblyInfo.cs
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\bin\Debug\netcoreapp2.0\ComputerInventory.pdb
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.dll
+F:\git\LearnEFCore\ComputerInventory\ComputerInventory\obj\Debug\netcoreapp2.0\ComputerInventory.pdb
